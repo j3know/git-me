@@ -2,5 +2,8 @@ console.log('config.js');
 console.log('version1');
 console.log('version2');
 console.log('version3');
-console.log('version4');
+<<<<<<< HEAD
 console.log('version3');
+=======
+console.log('version4');
+>>>>>>> 26470ec0afbc68a9482e80f9ee7fa9339d6ac37b
